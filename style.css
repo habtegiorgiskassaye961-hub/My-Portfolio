@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+.main{
+    margin-left: 200px;
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    border: 2px solid blue;
+    background-color: antiquewhite;
+}
